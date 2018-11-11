@@ -91,3 +91,7 @@ a:hover{
 a:active{
     color: chartreuse;
 }
+
+table, th, td {
+   border: 1px solid black;
+}
